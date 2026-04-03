@@ -1,5 +1,3 @@
-//
-//
 import React, { useState, useEffect } from 'react';
 import { Star, Mail, Video, Send, Package, Printer } from 'lucide-react';
 import { createClient } from '@supabase/supabase-js';
